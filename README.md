@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Fabi
+
+I'm currently
+- studying computer science at the [University of Stuttgart](https://www.uni-stuttgart.de/en/)
+- working on a [universal counting app](../CounterApp) that can easily be transformed to count anything
 
 <!--
 **cloudsftp/cloudsftp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
