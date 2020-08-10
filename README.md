@@ -20,7 +20,7 @@ I'm currently
   <img src="https://www.python.org/static/opengraph-icon-200x200.png" height="64"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" height="64"/>
   <img src="https://golang.gallerycdn.vsassets.io/extensions/golang/go/0.15.1/1594170296007/Microsoft.VisualStudio.Services.Icons.Default" height="64"/>
-  <img src="https://namaristats.com/static/img/langs/logo-comlisp.png" height="64"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Lisplogo.png" height="64"/>
   <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" height="64"/>
   <img src="https://silq.ethz.ch/assets/images/logo.svg" height="64"/>
 </div>
