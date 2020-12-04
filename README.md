@@ -2,7 +2,9 @@
 
 I'm currently
 - studying computer science at the [University of Stuttgart](https://www.uni-stuttgart.de/en/)
+<!---
 - working on a [universal counting app](cloudsftp/CounterApp) that can easily be transformed to count anything
+-->
 
 ### Languages
 
