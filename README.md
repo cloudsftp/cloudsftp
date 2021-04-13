@@ -13,7 +13,7 @@ I'm currently
 - Golang
 - Elixir
 
-<div>
+<div style="background-color: #f8f0c8; padding: 10px 10px 5px 10px; border-radius: 5px; display: inline-block">
   <img src="Icons/bash.png" height="64"/>
   <img src="Icons/python.png" height="64"/>
   <img src="Icons/c.png" height="64">
