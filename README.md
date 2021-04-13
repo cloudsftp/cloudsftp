@@ -4,7 +4,7 @@ I'm currently
 - studying computer science at the [University of Stuttgart](https://www.uni-stuttgart.de/en/)
 - working at [softwareinmotion](https://www.softwareinmotion.de)
 
-### Languages (Familiar, not necessarily fluent :sweat_sile:)
+### Languages (Familiar, not necessarily fluent 😅)
 
 - Bash
 - Python
@@ -20,5 +20,5 @@ I'm currently
   <img src="https://pics.freeicons.io/uploads/icons/png/18852341021548218200-512.png" height="64"/> <!-- Kotlin -->
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" height="64"/> <!-- Java -->
   <img src="https://golang.gallerycdn.vsassets.io/extensions/golang/go/0.15.1/1594170296007/Microsoft.VisualStudio.Services.Icons.Default" height="64"/> <!-- golang -->
-  <img src="https://plugins.jetbrains.com/files/7522/110597/icon/pluginIcon.png" height="64"/> <!-- Elixir -->
+  <img src="Icons/elixir.png" height="64"/> <!-- Elixir -->
 </div>
