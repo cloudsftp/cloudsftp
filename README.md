@@ -1,7 +1,5 @@
 ## Hi there, I'm Fabi
 
-I'm currently studying computer science at the [University of Stuttgart](https://www.uni-stuttgart.de/en/)
-
 ### Favourite Languages
 
 - Rust
